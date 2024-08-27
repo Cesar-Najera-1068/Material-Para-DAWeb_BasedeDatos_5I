@@ -18,5 +18,8 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Python https://www.w3schools.com/python/default.asp
 - Descargar Python
 - https://www.python.org/downloads/
+
+- Programacion en linea
+- https://coddy.tech/
   
 
